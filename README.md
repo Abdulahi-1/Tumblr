@@ -1,4 +1,4 @@
-# TumblrFeeds
+# TumblrFeed
 
 Submitted by: Abdulahi Abdi
 
